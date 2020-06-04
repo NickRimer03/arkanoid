@@ -15,3 +15,5 @@ Some bricks need to be hit several times before dissapear.
 Some bricks are indestructable.
 
 Wow!! 4 levels! :)
+
+Link to play: https://nickrimer03.github.io/arkanoid/
